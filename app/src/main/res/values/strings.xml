@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+
+    <string-array name="dates_spinner">
+        <item>Wed, June 27, 2012</item>
+        <item>Sun, June 28, 2012</item>
+        <item>Fri, June 2, 2012</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>8:00am</item>
+        <item>9:00am</item>
+        <item>10:10am</item>
+    </string-array>
+
+</resources>
